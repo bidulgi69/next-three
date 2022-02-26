@@ -1,34 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## NextJS + Three.js
+This project focuses on using nextjs, threejs, and react v8.
 
-First, run the development server:
+## Pages
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Main ("/")
+<img src="https://user-images.githubusercontent.com/17774927/155850286-fc89c7a1-0cda-42a8-88d8-a74aae9685ca.gif">
+The 3D model(https://sketchfab.com/3d-models/kitten-non-commercial-885a6d7ea3d940c082caf9ee946c8602) has Sketchfab's non-commercial license. I used three.js, react-three-fiber, and react-three-drei.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Theater ("/theater")
+<img src="https://user-images.githubusercontent.com/17774927/155850266-9a570a86-61b0-483a-b390-d60cb18385fa.gif">
+I referred to this reference(https://codesandbox.io/s/4jjmm?file=/src/index.tsx:1000-2294) the most and used react-youtube to display video on the surface of the 3D object.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Turntable ("/turntable")
+will be added next update
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Horror House ("/horror")
+will be added later
