@@ -21,7 +21,7 @@ function Navigation() {
                     <a className={isInactive("/theater")}>Theater</a>
                 </Link>
                 <Link href={"/turntable"}>
-                    <a className={isInactive("turntable")}>Turntable</a>
+                    <a className={isInactive("/turntable")}>Turntable</a>
                 </Link>
                 <Link href={"/horror"}>
                     <a className={isInactive("/horror")}>Horror House</a>
