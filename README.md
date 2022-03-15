@@ -20,7 +20,7 @@ I referred to this reference(https://codesandbox.io/s/4jjmm?file=/src/index.tsx:
 The 3D turntable model (https://sketchfab.com/3d-models/melodija-105-dce5a98e2e3c4d5bb6ffa09adc57d2e8) has CC-BY-4.0 license(http://creativecommons.org/licenses/by/4.0/)
 
 - The background will be changed depending on the track you selected.
-- Using the lerpColors function, make the trainstion between two background colors seemed smooth.
+- Using the lerpColors function, make the transition between two background colors seemed smooth.
 
 
 ### Horror House ("/horror")
