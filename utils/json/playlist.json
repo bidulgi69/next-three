@@ -1,0 +1,51 @@
+[
+  {
+    "index": 0,
+    "title": "Know The Feelin'",
+    "src": "/mp3/SHAG - Know The Feelin'.mp3",
+    "paused": true,
+    "tone": "0xf76b8a"
+  },
+  {
+    "index": 1,
+    "title": "feelings.",
+    "src": "/mp3/jinsang - feelings..mp3",
+    "paused": true,
+    "tone": "0x66bfbf"
+  },
+  {
+    "index": 2,
+    "title": "Changed",
+    "src": "/mp3/iamalex - Changed.mp3",
+    "paused": true,
+    "tone": "0xc24d2c"
+  },
+  {
+    "index": 3,
+    "title": "Call My Name",
+    "src": "/mp3/Jinbo - Call My Name.mp3",
+    "paused": true,
+    "tone": "0xc51350"
+  },
+  {
+    "index": 4,
+    "title": "After Hanabi",
+    "src": "/mp3/Nujabes - After Hanabi.mp3",
+    "paused": true,
+    "tone": "0xc24d2c"
+  },
+  {
+    "index": 5,
+    "title": "Cotard's Syndrome",
+    "src": "/mp3/Kim Oki - Cotard's Syndrome.mp3",
+    "paused": true,
+    "tone": "0x66bfbf"
+  },
+  {
+    "index": 6,
+    "title": "Alone",
+    "src": "/mp3/MisO - Alone.mp3",
+    "paused": true,
+    "tone": "0xedb1f1"
+  }
+]
