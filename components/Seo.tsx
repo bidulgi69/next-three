@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { NextRouter, useRouter } from "next/router";
-import { capitalize } from "../utils/function";
+import { capitalize } from "../utils";
 
 function Seo() {
     const router: NextRouter = useRouter()
