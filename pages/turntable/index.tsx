@@ -27,10 +27,6 @@ export default function Turntable() {
     const currentTrack = React.useRef<number>(-1)
     const gradient = React.useRef<string>(defaultGradient)
 
-    React.useEffect(() => {
-        currentTrack.current = -1
-    }, [])
-
     function Track({ index, title, src, paused, tone }: TrackProps) {
         const [ hover, isHover ] = React.useState<boolean>(false)
         const audio = React.useRef<HTMLAudioElement | null>(null)
